@@ -1,0 +1,303 @@
+#
+# The contents of this file are subject to 
+# AFRINIC Database Terms and Conditions
+#
+# http://www.afrinic.net/en/services
+#
+
+as-block:       AS30720 - AS30979
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20031001
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS31000 - AS31743
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050205
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20031001
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS1877 - AS1901
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS2043 - AS2043
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS2047 - AS2047
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS2107 - AS2136
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS2585 - AS2614
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS2773 - AS2822
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS2830 - AS2879
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS3154 - AS3353
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS5377 - AS5631
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
+as-block:       AS6656 - AS6911
+type:           REGULAR
+descr:          RIPE NCC ASN block
+remarks:        These AS Numbers are further assigned to network
+                operators in the RIPE NCC service region. AS
+                assignment policy is documented in:
+                <http://www.ripe.net/ripe/docs/asn-assignment.html>
+                RIPE NCC members can request AS Numbers using the
+                form located at:
+                <http://lirportal.ripe.net/lirportal/liruser/resource_request/draw.html?name=as-number>
+remarks:        data has been transferred from RIPE Whois Database 20050221
+org:            ORG-AFNC1-AFRINIC
+admin-c:        TEAM-AFRINIC
+tech-c:         TEAM-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      AFRINIC-HM-MNT
+changed:        ***@ripe.net 20010423
+changed:        ***@ripe.net 20011024
+changed:        ***@ripe.net 20011120
+changed:        ***@ripe.net 20020408
+changed:        ***@ripe.net 20040421
+changed:        ***@ripe.net 20050202
+changed:        ***@afrinic.net 20050205
+source:         AFRINIC
+
